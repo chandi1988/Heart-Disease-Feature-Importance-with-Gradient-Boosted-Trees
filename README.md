@@ -19,3 +19,6 @@ This database contains 76 attributes, but all published experiments refer to usi
 - ca = number of major vessels (0-3) colored by flourosopy
 - thal = 3 = normal; 6 = fixed defect; 7 = reversable defect
 - target = 1 or 0 (1 being heart disease, 0 being no heart disease
+
+
+Data can be found on Kaggel: https://www.kaggle.com/ronitf/heart-disease-uci
